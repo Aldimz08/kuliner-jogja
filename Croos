@@ -1,0 +1,12 @@
+<?php
+$koneksi = mysqli_connect('localhost','root','','Makanan_Khas_Padang');
+
+/*if($koneksi){
+	echo "koneksi berhasil";
+}
+else {
+	echo "koneksi gagal";
+}
+*/
+
+?>
